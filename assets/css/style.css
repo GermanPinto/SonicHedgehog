@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: 'Exo', sans-serif;
+font-family: 'Mina', sans-serif;
+}
+
+nav img{
+    width: 8rem;
+}
+
+nav ul{
+    /*margin: 0 auto;*/
+    margin-left: 70%;
+}
+
+.opacity80:hover{
+    opacity: 0.8;
+}
+
+h2{
+    background-color: darkgrey;
+    color: dodgerblue;
+    padding: 4px;
+    
+    box-shadow: 2px 2px 5px black;
+}
+
+footer p{
+ color: white;
+ text-align: center;
+ font-size: 1.5rem;
+}
